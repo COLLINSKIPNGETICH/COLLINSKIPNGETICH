@@ -1,6 +1,6 @@
 # Hi, I'm Collins Kipngetich
 
-![Digital Dreams](https://images.freeimages.com/images/large-previews/f94/digital-dreams-1155914.jpg)
+![Digital Dreams](https://media.istockphoto.com/id/841426318/photo/concept-of-digital-technology.jpg?s=1024x1024&w=is&k=20&c=fJt8219wEa_s1WUdP-wKEIzTAvPKBtwmf5MlxWm1oRg=)
 
 ## About Me
 I am a Kenyan full-stack developer. Dynamic and motivated individual with a passion for software developing and project management.
