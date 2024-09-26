@@ -6,7 +6,7 @@
 I am a Kenyan full-stack developer. Dynamic and motivated individual with a passion for software developing and project management.
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/collins-kipngetich-5415322a1/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://CollinsKip69161)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://https://x.com/collinskip3311)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/YOUR-TELEGRAM-USERNAME)
 [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-green?style=flat&logo=WhatsApp&logoColor=white)](https://wa.me/+254758913660)
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-blue?style=flat&logo=Internet-Explorer&logoColor=white)](https://YOUR-PORTFOLIO-URL)
