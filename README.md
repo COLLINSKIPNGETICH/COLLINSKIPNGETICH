@@ -1,8 +1,8 @@
-# 👋🏾 Hi, I'm Collins Kipngetich
+# Hi, I'm Collins Kipngetich
 
 ![Digital Dreams](https://images.freeimages.com/images/large-previews/f94/digital-dreams-1155914.jpg)
 
-## 👩‍💻 About Me
+## About Me
 I am a Kenyan full-stack developer. Dynamic and motivated individual with a passion for software developing and project management.
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/collins-kipngetich-5415322a1/)
