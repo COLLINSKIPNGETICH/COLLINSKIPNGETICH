@@ -3,12 +3,11 @@
 ![Digital Dreams](https://images.freeimages.com/images/large-previews/f94/digital-dreams-1155914.jpg)
 
 ## 👩‍💻 About Me
-I am a Kenyan full-stack developer. I am an experienced developer with a concrete foundation in frontend and backend development. Dynamic and motivated individual with a passion for software engineering, possessing strong skills in team-building and project management, contributing to innovative projects in the tech industry.
+I am a Kenyan full-stack developer. Dynamic and motivated individual with a passion for software developing and project management.
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/YOUR-TWITTER-USERNAME)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/collins-kipngetich-5415322a1/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://CollinsKip69161)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/YOUR-TELEGRAM-USERNAME)
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/YOUR-FACEBOOK-USERNAME)
 [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-green?style=flat&logo=WhatsApp&logoColor=white)](https://wa.me/YOUR-WHATSAPP-NUMBER)
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-blue?style=flat&logo=Internet-Explorer&logoColor=white)](https://YOUR-PORTFOLIO-URL)
 
@@ -46,3 +45,10 @@ I am a Kenyan full-stack developer. I am an experienced developer with a concret
 [![Adobe XD Badge](https://img.shields.io/badge/-Adobe_XD-purple?style=flat&logo=AdobeXD&logoColor=white)](https://www.adobe.com/products/xd.html)
 
 </div>
+
+## 🔥 GitHub Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=COLLINSKIPNGETICH)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=COLLINSKIPNGETICH&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
