@@ -43,7 +43,6 @@ I am a Kenyan full-stack developer. Dynamic and motivated individual with a pass
 ### Design
 [![Figma Badge](https://img.shields.io/badge/-Figma-blue?style=flat&logo=Figma&logoColor=white)](https://www.figma.com/)
 [![Adobe XD Badge](https://img.shields.io/badge/-Adobe_XD-purple?style=flat&logo=AdobeXD&logoColor=white)](https://www.adobe.com/products/xd.html)
-
 </div>
 
 ## 🔥 GitHub Stats
