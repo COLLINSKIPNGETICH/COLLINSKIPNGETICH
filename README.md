@@ -3,7 +3,7 @@
 ![Digital Dreams](https://media.istockphoto.com/id/841426318/photo/concept-of-digital-technology.jpg?s=1024x1024&w=is&k=20&c=fJt8219wEa_s1WUdP-wKEIzTAvPKBtwmf5MlxWm1oRg=)
 
 ## About Me
-I am a Kenyan full-stack developer. Dynamic and motivated individual with a passion for software developing and project management.
+I am a passionate full-stack developer and my journey began at Moringa School laying a strong foundation in building dynamic, scalable, and user-centric applications. My expertise spans frontend development, backend systems, and database management, allowing me to deliver seamless end-to-end solutions.
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/collins-kipngetich-5415322a1/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://https://x.com/collinskip3311)
